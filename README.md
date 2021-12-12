@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Ever since I was in middle school my first date with computer science when I was using visual basic to print hello world or to add two numbers. This was magic for me. I will no longer use the calculator on my PC I will use the one I created with a more complex user interface that only I can understand and with limited calculations .. This was my motivation to study Engineering and computer science but in addition to learning a hello world and calculator I learned algorithms, data structures, object-oriented, different programming languages, embedded systems, computer architecture and many new things middle school me could have never imagined studying but his passion drove me there and will be there as there is much yet to learn.
+
+
+
 <!--
 **fadyHemaya/fadyHemaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
